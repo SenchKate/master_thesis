@@ -3,6 +3,8 @@
 The code is attached to the master thesis: "Modality-invariant classifier of remote sensing images using cross-modal learning". 
 The work uses https://github.com/cuishuhao/ACMR. 
 
+The code processes Sen12Ms dataset: https://mediatum.ub.tum.de/1474000
+
 @article{ACMR,
 
 author={Wang, B., Yang, Y., Xing, X., Hanjalic, A.}, 
