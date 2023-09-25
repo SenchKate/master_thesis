@@ -1,5 +1,8 @@
 # Master thesis code
 
+
+My master's thesis is dedicated to training and analyzing models, which could take different modalities of remote imagery as input. The goal of my work was to train a classifier, which could merge different modalities in one common subspace and then classify the samples from there. The work includes the analysis of the subspace and the classification. A detailed description of my work with conclusions can be found here: https://www.overleaf.com/read/wmtrjvhqjqtc I hope that you will enjoy reading my research.
+
 The code is attached to the master thesis: "Modality-invariant classifier of remote sensing images using cross-modal learning". 
 The work uses https://github.com/cuishuhao/ACMR. 
 
